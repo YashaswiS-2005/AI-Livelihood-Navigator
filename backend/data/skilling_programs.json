@@ -1,0 +1,74 @@
+[
+  {
+    "program_id": "PRG-PMKUSUM-FARM-01",
+    "program_name": "PM-KUSUM Solar Pump Technician & Modern Agri Scheme",
+    "state": "All India",
+    "occupation": "Farmer",
+    "skills": ["Solar Water Pump & Agri Machinery Operation", "Drip Irrigation & Soil Nutrient Management"],
+    "eligibility": {
+      "min_experience_years": 0,
+      "min_education": "Below Class 8",
+      "allowed_education": ["Below Class 8", "Class 8", "Class 10", "Class 12"],
+      "age_limit": "18-60 years",
+      "required_occupations": ["Farmer"]
+    },
+    "benefits": "90% government subsidy on solar agri pumps, free 5-day solar pump maintenance training, ₹500/day stipend allowance.",
+    "application_process": "Voice register via SkillSaathi -> Krishi Vigyan Kendra (KVK) document check.",
+    "source": "Ministry of Agriculture & Farmers Welfare / MNRE",
+    "last_verified": "2026-09-12"
+  },
+  {
+    "program_id": "PRG-ICAR-FARM-02",
+    "program_name": "ICAR Organic Farming & Drip Irrigation Certification",
+    "state": "Karnataka",
+    "occupation": "Farmer",
+    "skills": ["Drip Irrigation & Soil Nutrient Management"],
+    "eligibility": {
+      "min_experience_years": 1,
+      "min_education": "Below Class 8",
+      "allowed_education": ["Below Class 8", "Class 8", "Class 10", "Class 12"],
+      "age_limit": "18-65 years",
+      "required_occupations": ["Farmer"]
+    },
+    "benefits": "Free soil health testing kit, organic certification license, ₹10,000 bio-fertilizer voucher, micro-irrigation subsidy linkage.",
+    "application_process": "Submit profile -> District Agriculture Officer (DAO) approval.",
+    "source": "Indian Council of Agricultural Research (ICAR)",
+    "last_verified": "2026-09-08"
+  },
+  {
+    "program_id": "PRG-PMKVY-ELEC-01",
+    "program_name": "PMKVY 4.0 Advanced Electrician & Solar PV Technician",
+    "state": "All India",
+    "occupation": "Electrician",
+    "skills": ["Domestic Electrical Wiring", "Electrical Appliance Repair", "Solar PV Rooftop Installation"],
+    "eligibility": {
+      "min_experience_years": 1,
+      "min_education": "Class 8",
+      "allowed_education": ["Below Class 8", "Class 8", "Class 10", "Class 12", "ITI", "Diploma"],
+      "age_limit": "18-45 years",
+      "required_occupations": ["Electrician", "Solar Technician"]
+    },
+    "benefits": "Free government certification under Skill India, ₹8,000 tool-kit incentive, 3-month stipend allowance, and direct job placement support.",
+    "application_process": "1-click auto application submit via SkillSaathi -> Aadhaar verification at nearest PMKVY Training Centre -> Assessment.",
+    "source": "National Skill Development Corporation (NSDC) - PMKVY 4.0 Guidelines",
+    "last_verified": "2026-08-15"
+  },
+  {
+    "program_id": "PRG-KSDC-ELEC-02",
+    "program_name": "Karnataka Skill Mission - Chief Minister Koushalya Yojna (CMKY) Electrical Specialist",
+    "state": "Karnataka",
+    "occupation": "Electrician",
+    "skills": ["Domestic Electrical Wiring", "Industrial Panel Wiring & Control", "Electrical Appliance Repair"],
+    "eligibility": {
+      "min_experience_years": 2,
+      "min_education": "Class 10",
+      "allowed_education": ["Class 10", "Class 12", "ITI", "Diploma"],
+      "age_limit": "18-38 years",
+      "required_occupations": ["Electrician"]
+    },
+    "benefits": "State certification, ₹1,500 monthly stipend during 60-day residential upgrading module, free safety gear kit, and micro-loan linkage.",
+    "application_process": "Submit profile via SkillSaathi -> Verification by District Skill Development Officer (DSDO) -> Course commencement.",
+    "source": "Karnataka Skill Development Corporation (KSDC) Official Portal",
+    "last_verified": "2026-09-01"
+  }
+]

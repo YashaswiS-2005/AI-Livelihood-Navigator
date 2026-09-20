@@ -1,0 +1,72 @@
+[
+  {
+    "centre_id": "TC-KA-BLR-01",
+    "name": "PMKVY National Skill Training Institute (NSTI)",
+    "address": "Outer Ring Road, Peenya Industrial Area, Bengaluru, Karnataka 560058",
+    "district": "Bengaluru",
+    "state": "Karnataka",
+    "latitude": 13.0285,
+    "longitude": 77.5197,
+    "contact_phone": "+91 80 2839 2540",
+    "open_seats": 18,
+    "trades_offered": ["Electrician", "Solar Technician", "Welder"],
+    "rating": 4.8,
+    "is_government": true
+  },
+  {
+    "centre_id": "TC-KA-BLR-02",
+    "name": "Karnataka Skill Mission Training Hub - Rajajinagar",
+    "address": "1st Block, Rajajinagar, Near Metro Station, Bengaluru, Karnataka 560010",
+    "district": "Bengaluru",
+    "state": "Karnataka",
+    "latitude": 12.9915,
+    "longitude": 77.5552,
+    "contact_phone": "+91 80 2340 1122",
+    "open_seats": 14,
+    "trades_offered": ["Electrician", "Plumber", "Automotive Technician"],
+    "rating": 4.7,
+    "is_government": true
+  },
+  {
+    "centre_id": "TC-KA-MYS-03",
+    "name": "Government ITI & Skill Development Centre - Mysuru",
+    "address": "Hebbal Industrial Area, Mysuru, Karnataka 570016",
+    "district": "Mysuru",
+    "state": "Karnataka",
+    "latitude": 12.3556,
+    "longitude": 76.6128,
+    "contact_phone": "+91 821 241 8900",
+    "open_seats": 22,
+    "trades_offered": ["Electrician", "Welder", "Automotive Technician"],
+    "rating": 4.6,
+    "is_government": true
+  },
+  {
+    "centre_id": "TC-MH-MUM-04",
+    "name": "Maharashtra Kaushalya Skill Institute - Kurla",
+    "address": "LBS Marg, Kurla West, Mumbai, Maharashtra 400070",
+    "district": "Mumbai",
+    "state": "Maharashtra",
+    "latitude": 19.0825,
+    "longitude": 72.8856,
+    "contact_phone": "+91 22 2650 4433",
+    "open_seats": 12,
+    "trades_offered": ["Electrician", "Plumber", "Solar Technician"],
+    "rating": 4.7,
+    "is_government": true
+  },
+  {
+    "centre_id": "TC-DL-DEL-05",
+    "name": "Delhi Skill & Entrepreneurship Training Centre",
+    "address": "Okhla Industrial Estate Phase III, New Delhi 110020",
+    "district": "New Delhi",
+    "state": "Delhi",
+    "latitude": 28.5355,
+    "longitude": 77.2680,
+    "contact_phone": "+91 11 2683 9911",
+    "open_seats": 25,
+    "trades_offered": ["Electrician", "Automotive Technician", "Plumber"],
+    "rating": 4.9,
+    "is_government": true
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "occupations": {
+    "Farmer": [
+      {
+        "id": "SK-FARM-01",
+        "name": "Drip Irrigation & Soil Nutrient Management",
+        "category": "Agriculture & Farming",
+        "description": "Installation and maintenance of micro-drip irrigation systems, soil testing, organic composting, and fertigation.",
+        "keywords": ["farmer", "farm", "farming", "raitha", "kisaan", "agriculture", "crop", "soil", "irrigation", "drip irrigation", "fertilizer", "organic farming", "pesticide", "krishi", "kheti", "ರೈತ", "ರೈತರು", "ಕೃಷಿ", "किसान", "खेती"]
+      },
+      {
+        "id": "SK-FARM-02",
+        "name": "Solar Water Pump & Agri Machinery Operation",
+        "category": "Farm Mechanization",
+        "description": "Operation and maintenance of solar water pumps, tractors, tillers, harvesters, and sprayers.",
+        "keywords": ["tractor", "solar pump", "agri machinery", "farm machinery", "harvester", "pump", "tiller", "borewell"]
+      }
+    ],
+    "Electrician": [
+      {
+        "id": "SK-ELEC-01",
+        "name": "Domestic Electrical Wiring",
+        "category": "Installation & Wiring",
+        "description": "Installation, testing, and maintenance of single-phase and three-phase residential electrical circuits, switches, conduit pipes, and distribution boards.",
+        "keywords": ["electrician", "electrical", "house wiring", "conduit", "switchboard", "wiring", "single phase", "mcb", "fuse", "meter", "light point", "ಎಲೆಕ್ಟ್ರಿಷಿಯನ್", "ಇಲೆಕ್ಟ್ರಿಷಿಯನ್", "इलेक्ट्रिशियन", "बिजली"]
+      },
+      {
+        "id": "SK-ELEC-02",
+        "name": "Electrical Appliance Repair",
+        "category": "Maintenance & Repair",
+        "description": "Troubleshooting and fixing ceiling fans, water heaters (geysers), electric irons, mixer grinders, coolers, and small household electronics.",
+        "keywords": ["fan repair", "repair fan", "geyser repair", "mixer repair", "appliance repair", "motor rewinding", "cooler repair"]
+      }
+    ],
+    "Plumber": [
+      {
+        "id": "SK-PLUM-01",
+        "name": "Sanitary & Pipe Fitting",
+        "category": "Plumbing Installation",
+        "description": "Laying PVC, CPVC, GI pipes for water supply, bathroom fittings, taps, wash basins, and drainage connections.",
+        "keywords": ["plumber", "pipe fitting", "pvc pipe", "tap repair", "sanitary fitting", "water line", "cpvc", "leaking pipe", "ಪ್ಲಂಬರ್", "ಪೈಪ್", "प्लंबर", "नल"]
+      }
+    ],
+    "Mason": [
+      {
+        "id": "SK-MASON-01",
+        "name": "Brickwork & Tile Laying",
+        "category": "Civil Construction",
+        "description": "Brick masonry, cement plastering, tile laying, foundation work, and structural concrete mixing.",
+        "keywords": ["mason", "masonry", "brickwork", "tile laying", "plastering", "building", "construction", "cement", "ಮೇಸ್ತ್ರಿ", "ರಾಜಮೇಸ್ತ್ರಿ", "राजमिस्त्री", "राजमिस्त्री"]
+      }
+    ],
+    "Carpenter": [
+      {
+        "id": "SK-CARP-01",
+        "name": "Furniture Fabrication & Wood Joinery",
+        "category": "Woodworking",
+        "description": "Cutting, shaping, and assembling wooden furniture, doors, windows, cabinets, and modular kitchen joinery.",
+        "keywords": ["carpenter", "wood work", "furniture", "doors", "windows", "wood joinery", "plywood", "ಮರಗೆಲಸ", "ಬಡಗಿ", "बढ़ई", "लकड़ी का काम"]
+      }
+    ],
+    "Automotive Technician": [
+      {
+        "id": "SK-AUTO-01",
+        "name": "Two-Wheeler Service & Repair",
+        "category": "Automotive Maintenance",
+        "description": "Engine servicing, carburetor tuning, clutch overhaul, brake shoe replacement, and electrical wiring for motorcycles and scooters.",
+        "keywords": ["mechanic", "automotive", "bike repair", "scooter service", "two wheeler", "clutch repair", "engine overhaul", "brake repair", "bike servicing", "ಆಟೋ", "ಮೆಕ್ಯಾನಿಕ್", "गाड़ी", "मैकेनिक"]
+      }
+    ],
+    "Welder": [
+      {
+        "id": "SK-WELD-01",
+        "name": "Arc & MIG Welding",
+        "category": "Fabrication",
+        "description": "Manual Metal Arc Welding (MMAW), Shielded Metal Arc Welding (SMAW), metal fabrication for gates, grills, and structural frameworks.",
+        "keywords": ["welder", "welding", "arc welding", "mig welding", "grill fabrication", "gate repair", "metal joint", "fabrication work", "ವೆಲ್ಡರ್", "वेल्डर"]
+      }
+    ],
+    "Solar Technician": [
+      {
+        "id": "SK-SOLAR-01",
+        "name": "Rooftop Solar PV Installation",
+        "category": "Renewable Energy",
+        "description": "Solar PV structure assembly, panel stringing, inverter installation, and grid synchronization.",
+        "keywords": ["solar installation", "pv panel", "solar panel repair", "rooftop solar", "grid tie inverter"]
+      }
+    ],
+    "Tailor": [
+      {
+        "id": "SK-TAIL-01",
+        "name": "Garment Stitching & Alteration",
+        "category": "Apparel Manufacturing",
+        "description": "Pattern cutting, machine stitching, blouse/shirt/pant tailoring, zipper installation, and alterations.",
+        "keywords": ["tailor", "stitching", "cloth cutting", "tailoring", "garment making", "sewing machine", "alteration", "blouse stitching", "ದರ್ಜಿ", "दर्जी"]
+      }
+    ],
+    "Driver": [
+      {
+        "id": "SK-DRV-01",
+        "name": "Commercial & Light Motor Vehicle Driving",
+        "category": "Logistics & Transport",
+        "description": "Safe operation of light commercial vehicles, cabs, goods trucks, GPS navigation, traffic rules compliance, and basic vehicle maintenance.",
+        "keywords": ["driver", "driving", "commercial driver", "cab driver", "truck driver", "car driver", "ಡ್ರೈವರ್", "ಚಾಲಕ", "ड्राइवर", "चालक"]
+      }
+    ],
+    "Security Guard": [
+      {
+        "id": "SK-SEC-01",
+        "name": "Premises Security & Visitor Access Control",
+        "category": "Facility Management",
+        "description": "Entry register logging, CCTV monitoring, access control, emergency response, and property perimeter patrolling.",
+        "keywords": ["security", "security guard", "guard", "gate guard", "watchman", "ಸೆಕ್ಯೂರಿಟಿ", "ವಾಚ್ಮ್ಯಾನ್", "सिक्योरिटी गार्ड", "चौकीदार"]
+      }
+    ],
+    "Painter": [
+      {
+        "id": "SK-PAINT-01",
+        "name": "Commercial & Residential Painting",
+        "category": "Construction & Finishing",
+        "description": "Surface wall putty preparation, primer application, emulsion wall painting, texture coating, and enamel wood/metal painting.",
+        "keywords": ["painter", "painting", "wall painter", "putty", "distemper", "color painting", "ಪೇಂಟರ್", "ಪೇಂಟಿಂಗ್", "पेंटर", "पुताई"]
+      }
+    ],
+    "AC Technician": [
+      {
+        "id": "SK-AC-01",
+        "name": "Air Conditioner & Refrigeration Repair",
+        "category": "HVAC & Appliance Maintenance",
+        "description": "Split AC installation, gas charging, compressor repair, leak detection, and refrigerator servicing.",
+        "keywords": ["ac technician", "ac repair", "air conditioner", "refrigerator repair", "fridge repair", "gas filling", "split ac", "ಏಸಿ ರಿಪೇರಿ", "एसी तकनीशियन"]
+      }
+    ],
+    "Housekeeper": [
+      {
+        "id": "SK-HOUSE-01",
+        "name": "Domestic Cleaning & Home Carekeeping",
+        "category": "Domestic Services",
+        "description": "Residential deep cleaning, kitchen sanitation, garment ironing, elder/child care assistance, and household management.",
+        "keywords": ["housekeeper", "maid", "housemaid", "cleaning", "cook", "home care", "ಮನೆ ಕೆಲಸ", "कामवाली", "बाई"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "agricultural-equipment-operator",
+    "title": "Agricultural Equipment Operator",
+    "summary": "Operate and care for farm machinery safely and efficiently.",
+    "match_terms": ["farm", "farming", "tractor", "agriculture", "equipment"],
+    "why": ["Farming experience", "Tractor operation", "Interest in agriculture"],
+    "skill_to_learn": "Equipment Maintenance",
+    "bridge_from": "Farming",
+    "bridge_to": "Agricultural Equipment Operator",
+    "roadmap": ["Learn Equipment Maintenance", "Complete Basic Training", "Practice Equipment Handling", "Explore Suitable Opportunities"]
+  },
+  {
+    "id": "agri-tech-assistant",
+    "title": "Agri-Tech Assistant",
+    "summary": "Support farmers with simple digital tools and modern farm practices.",
+    "match_terms": ["farm", "farming", "agriculture", "technology", "digital"],
+    "why": ["Farming knowledge", "Interest in technology"],
+    "skill_to_learn": "Digital Agriculture",
+    "bridge_from": "Farming",
+    "bridge_to": "Agri-Tech Assistant",
+    "roadmap": ["Learn Digital Agriculture", "Complete Basic Training", "Practice With Farm Apps", "Explore Suitable Opportunities"]
+  },
+  {
+    "id": "irrigation-technician",
+    "title": "Irrigation Technician",
+    "summary": "Install and maintain efficient irrigation systems for farms.",
+    "match_terms": ["farm", "farming", "irrigation", "equipment", "tractor"],
+    "why": ["Farming experience", "Practical equipment knowledge"],
+    "skill_to_learn": "Irrigation Systems",
+    "bridge_from": "Tractor Operation",
+    "bridge_to": "Irrigation Technician",
+    "roadmap": ["Learn Irrigation Systems", "Complete Basic Training", "Practice System Installation", "Explore Suitable Opportunities"]
+  },
+  {
+    "id": "solar-technician",
+    "title": "Solar Technician",
+    "summary": "Install and maintain small solar power systems.",
+    "match_terms": ["solar", "electrical", "electrician", "technology"],
+    "why": ["Technical interest", "Practical problem solving"],
+    "skill_to_learn": "Solar Installation",
+    "bridge_from": "Electrical work",
+    "bridge_to": "Solar Technician",
+    "roadmap": ["Learn Solar Installation", "Complete Basic Training", "Practice Panel Wiring", "Explore Suitable Opportunities"]
+  },
+  {
+    "id": "electrician-assistant",
+    "title": "Electrician Assistant",
+    "summary": "Support qualified electricians with safe wiring and repairs.",
+    "match_terms": ["electrical", "electrician", "wiring", "repair"],
+    "why": ["Hands-on work", "Interest in repairs"],
+    "skill_to_learn": "Electrical Safety",
+    "bridge_from": "Repair work",
+    "bridge_to": "Electrician Assistant",
+    "roadmap": ["Learn Electrical Safety", "Complete Basic Training", "Practice Safe Wiring", "Explore Suitable Opportunities"]
+  },
+  {
+    "id": "automotive-service-assistant",
+    "title": "Automotive Service Assistant",
+    "summary": "Help inspect, service, and maintain two-wheelers and vehicles.",
+    "match_terms": ["vehicle", "automotive", "mechanic", "bike", "repair"],
+    "why": ["Mechanical interest", "Hands-on problem solving"],
+    "skill_to_learn": "Vehicle Diagnostics",
+    "bridge_from": "Mechanical work",
+    "bridge_to": "Automotive Service Assistant",
+    "roadmap": ["Learn Vehicle Diagnostics", "Complete Basic Training", "Practice Service Checks", "Explore Suitable Opportunities"]
+  },
+  {
+    "id": "tailoring-assistant",
+    "title": "Tailoring Assistant",
+    "summary": "Support garment preparation, stitching, and basic alterations.",
+    "match_terms": ["tailor", "tailoring", "stitching", "fashion", "sewing"],
+    "why": ["Interest in making", "Careful hand skills"],
+    "skill_to_learn": "Garment Finishing",
+    "bridge_from": "Stitching",
+    "bridge_to": "Tailoring Assistant",
+    "roadmap": ["Learn Garment Finishing", "Complete Basic Training", "Practice Alterations", "Explore Suitable Opportunities"]
+  },
+  {
+    "id": "food-processing-assistant",
+    "title": "Food Processing Assistant",
+    "summary": "Prepare, package, and maintain quality in local food production.",
+    "match_terms": ["food", "cooking", "kitchen", "farm", "farming"],
+    "why": ["Interest in food work", "Local production experience"],
+    "skill_to_learn": "Food Safety",
+    "bridge_from": "Cooking or farming",
+    "bridge_to": "Food Processing Assistant",
+    "roadmap": ["Learn Food Safety", "Complete Basic Training", "Practice Quality Checks", "Explore Suitable Opportunities"]
+  },
+  {
+    "id": "masonry-assistant",
+    "title": "Masonry Assistant",
+    "summary": "Support construction teams with materials, measurements, and site work.",
+    "match_terms": ["construction", "mason", "masonry", "building", "brick"],
+    "why": ["Practical site experience", "Interest in construction"],
+    "skill_to_learn": "Construction Safety",
+    "bridge_from": "Construction work",
+    "bridge_to": "Masonry Assistant",
+    "roadmap": ["Learn Construction Safety", "Complete Basic Training", "Practice Site Measurements", "Explore Suitable Opportunities"]
+  },
+  {
+    "id": "community-digital-helper",
+    "title": "Community Digital Helper",
+    "summary": "Help people use basic digital services, forms, and online tools.",
+    "match_terms": ["computer", "digital", "technology", "internet", "helping"],
+    "why": ["Interest in technology", "Enjoys helping people"],
+    "skill_to_learn": "Digital Service Skills",
+    "bridge_from": "Digital familiarity",
+    "bridge_to": "Community Digital Helper",
+    "roadmap": ["Learn Digital Service Skills", "Complete Basic Training", "Practice Online Forms", "Explore Suitable Opportunities"]
+  }
+]
